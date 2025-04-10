@@ -1,8 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`Snapshot do usuário 1`] = `
-{
-  "id": 1,
-  "name": "Alice",
-}
-`;
